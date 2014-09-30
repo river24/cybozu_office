@@ -1,6 +1,6 @@
 # CybozuOffice
 
-TODO: Write a gem description
+Library to edit Events of Cybozu Office
 
 ## Installation
 

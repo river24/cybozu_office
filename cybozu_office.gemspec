@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = CybozuOffice::VERSION
   spec.authors       = ["Nao Kawanishi"]
   spec.email         = ["river2470@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Library to edit Events of Cybozu Office}
+  spec.description   = %q{Library to edit Events of Cybozu Office}
   spec.homepage      = ""
   spec.license       = "MIT"
 

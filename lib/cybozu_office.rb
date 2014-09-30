@@ -1,8 +1,2 @@
-require "cybozu_office/version"
+require "cybozu_office/agent"
 
-require "mechanize"
-require "nokogiri"
-
-module CybozuOffice
-  # Your code goes here...
-end
