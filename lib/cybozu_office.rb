@@ -1,2 +1,2 @@
-require "cybozu_office/agent"
+require "cybozu_office/client"
 

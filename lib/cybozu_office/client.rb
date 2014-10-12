@@ -8,7 +8,7 @@ require "nokogiri"
 Mechanize.html_parser = Nokogiri::HTML
 
 module CybozuOffice
-  class Agent
+  class Client
     def initialize(url, uid, gid, password)
       @pages = {
         'SCHEDULE_INDEX' => '?page=ScheduleIndex',
